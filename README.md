@@ -26,17 +26,6 @@ Hi! I'm **Pedro Henrique**, a **19-year-old** developer with **3+ years** of exp
 
 ---
 
-## 📊 Estatísticas do GitHub / GitHub Stats
-> `phqzz`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phqzz&theme=radical&show_icons=true&hide_border=true" alt="Pedro's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phqzz&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=phqzz&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ## 📫 Entre em Contato / Get in Touch
 - 💬 Aberto a colaborações e parcerias em projetos FiveM
 - 📧 Email: [pedrogg580265@gmail.com](mailto:pedrogg580265@gmail.com)
