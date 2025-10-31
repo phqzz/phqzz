@@ -1,4 +1,4 @@
-# Pedro Henrique \- FiveM Developer & Game Programmer
+# Pedro Henrique \- FullStack Developer
 
 > _"Transformando ideias em experiências imersivas dentro do universo FiveM."_
 
