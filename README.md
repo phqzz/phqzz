@@ -1,4 +1,4 @@
-# Pedro Henrique \- FullStack Developer
+# Pedro Henrique \- Back-End Developer
 
 > _"Transformando ideias em experiências imersivas dentro do universo FiveM."_
 
@@ -14,7 +14,7 @@ Hi! I'm **Pedro Henrique**, a **19-year-old** developer with **3+ years** of exp
 
 ### 🎮 Domínio: Programação de Jogos em Lua
 - Desenvolvimento de scripts avançados para servidores FiveM
-- Criação de sistemas de gameplay, economia, HUDs e integrações com bancos de dados
+- Atuação focada na criação de scripts, sistemas de gameplay, economia dinâmica, integrações com banco de dados e mecânicas automatizadas de servidor.
 - Otimização de desempenho e manutenção de código limpo para comunidades ativas
 
 ### 💡 Tecnologias que Utilizo / Technologies I Work With
