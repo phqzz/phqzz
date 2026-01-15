@@ -1,36 +1,36 @@
-# Pedro Henrique \- Back-End Developer
+# Pedro Henrique — Back-End Developer (FiveM)
 
-> _"Transformando ideias em experiências imersivas dentro do universo FiveM."_
+## 🇧🇷 Sobre
+Sou **Pedro Henrique**, **19 anos**, desenvolvedor com **mais de 3 anos de experiência** focado em **FiveM Back-End**. Atuo no desenvolvimento de **scripts e sistemas em Lua**, criando mecânicas de gameplay, economia, automações e integrações para servidores de médio e grande porte.
 
-## 🇧🇷 Sobre mim
-Olá! Meu nome é **Pedro Henrique**, tenho **19 anos** e estou na programação há mais de **3 anos**. Meu foco principal é o desenvolvimento de servidores e sistemas para **FiveM**, onde utilizo **Lua** para criar experiências de jogo personalizadas, imersivas e performáticas. Também exploro automações e integrações com **Python** e **Java**, o que me permite construir soluções de apoio para o ecossistema gamer.
+Tenho experiência com **otimização de performance**, organização de código e manutenção de sistemas ativos. Utilizo **Python** e **Java** para automações, ferramentas de suporte e integrações externas ao servidor.
 
-## 🇺🇸 About me
-Hi! I'm **Pedro Henrique**, a **19-year-old** developer with **3+ years** of experience. I specialize in building custom **FiveM** experiences, using **Lua** to craft immersive gameplay systems. I complement my workflow with **Python** and **Java** for tooling, integrations, and automation that support the gaming projects I work on.
+## 🇺🇸 About
+I'm **Pedro Henrique**, a **19-year-old** developer with **3+ years of experience** focused on **FiveM back-end development**. I build and maintain **Lua-based gameplay systems**, including economy, automation, and server-side logic.
+
+I also use **Python** and **Java** to develop tools, integrations, and automation that support FiveM server infrastructure.
 
 ---
 
-## 🛠️ Minhas Habilidades / My Skills
+## 🛠️ Skills
 
-### 🎮 Domínio: Programação de Jogos em Lua
-- Desenvolvimento de scripts avançados para servidores FiveM
-- Atuação focada na criação de scripts, sistemas de gameplay, economia dinâmica, integrações com banco de dados e mecânicas automatizadas de servidor.
-- Otimização de desempenho e manutenção de código limpo para comunidades ativas
+### 🎮 FiveM / Lua
+- Server-side and client-side scripting  
+- Gameplay systems and server mechanics  
+- Economy, inventory, and automated systems  
+- Database integrations  
+- Performance optimization  
+- Code maintenance and refactoring  
 
-### 💡 Tecnologias que Utilizo / Technologies I Work With
+### 💻 Technologies
 <p align="center">
-  <img src="https://img.shields.io/badge/Lua-%2300007C.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Lua-%2300007C.svg?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
 ---
 
-## 📫 Entre em Contato / Get in Touch
-- 💬 Aberto a colaborações e parcerias em projetos FiveM
-- 📧 Email: [pedrogg580265@gmail.com](mailto:pedrogg580265@gmail.com)
-- 📧 Entre em contato comigo para criar experiências únicas para sua comunidade
-
----
-
-> ⚡ _Sempre em busca de novas ideias para elevar o roleplay e a diversão dentro do FiveM._
+## 📫 Contact
+- 📧 Email: **pedrogg580265@gmail.com**
+- 💬 Open to **freelance, collaborations, and FiveM projects**
