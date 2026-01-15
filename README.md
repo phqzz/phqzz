@@ -15,7 +15,7 @@ I also use **Python** and **Java** to develop tools, integrations, and automatio
 ## 🛠️ Skills
 
 ### 🎮 FiveM / Lua
-- Server-side and client-side scripting  
+- Script creation and development  
 - Gameplay systems and server mechanics  
 - Economy, inventory, and automated systems  
 - Database integrations  
